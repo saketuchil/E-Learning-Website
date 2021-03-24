@@ -7,7 +7,7 @@ The website is a simple learning management system(LMS) which provides following
 4. My courses i.e paid courses.
 5. Payment gateway integration using RazorPay
 
-##Steps:
+## Steps:
 7. Download/Clone the repository.
 8. Goto *DbInit.php* and change username, password and servername(if not localhost).
 9. Goto *mail.php*, add your email address and password.
